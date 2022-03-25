@@ -1,1 +1,3 @@
-# http-sniffer-python
+# HTTP sniffer python
+
+Simple http sniffer using pcapy standard library.
